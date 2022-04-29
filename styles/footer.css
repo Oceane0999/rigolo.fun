@@ -1,0 +1,33 @@
+.footer{
+	width: 100%;
+	background-color: rgb(3, 39, 86);
+	display: flex;
+	justify-content: center;
+	color: white;
+	margin-top: 20vw;
+}
+.box{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.rs img{
+	width: 30px;
+}
+
+#text-footer {
+	display: flex;
+	flex-direction: column;
+}
+
+#mentions {
+	color: white;
+}
+
+#mentions:hover {
+	color: rgb(218, 156, 2);
+}

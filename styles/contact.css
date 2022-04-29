@@ -1,0 +1,58 @@
+#carte-lotr {
+	width: 40vw;
+}
+
+.chiffres {
+	height: 2vw;
+}
+
+#tel {
+	display: flex;
+	flex-direction: row;
+	margin: 1vw;
+}
+
+#phone-number {
+	margin-top: 1vw;
+	margin-left: 1vw;
+}
+
+#text-contact {
+	display: flex;
+	flex-direction: column;
+	width: 48vw;
+}
+
+#nous-contacter {
+	text-align: center;
+}
+
+#content-contact {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 3vw;
+	margin-bottom: -14vw;
+}
+
+#adresse {
+	display: flex;
+	flex-direction: row;
+	margin: 1vw;
+}
+
+#text-adress {
+	margin-left: 1vw;
+	padding-top: 0.2vw;
+}
+
+#mail {
+	display: flex;
+	flex-direction: row;
+	margin: 1vw;
+}
+
+#text-mail{
+	margin-left: 1vw;
+	padding-top: 0.2vw;
+}

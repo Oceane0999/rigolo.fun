@@ -1,0 +1,50 @@
+.expertise {
+	display: flex;
+	flex-direction: column;
+	margin: 1vw;
+	text-align: center;
+}
+
+#expertises {
+	display: flex;
+	flex-direction: row;
+	margin: 3vw;
+}
+
+.gif-expertise {
+	height: 12vw;
+}
+
+#titre-expertise {
+	text-align: center;
+	margin-top: 3vw;
+}
+
+#equipe-container {
+	margin-bottom: -12vw;
+}
+
+.equipe {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	text-align: center;
+}
+
+.membre {
+	display: flex;
+	flex-direction: column;
+	margin-left: 3vw;
+	margin-right: 3vw;
+	margin-top: 1vw;
+	margin-bottom: 1vw;
+}
+
+.photo-membre {
+	height: 30vw;
+}
+
+#titre-equipe {
+	text-align: center;
+	margin-top: 3vw;
+}
